@@ -32,4 +32,3 @@
   <h2>Liên hệ</h2>
   <p>Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào về Điều khoản sử dụng, vui lòng liên hệ qua email: <a href="mailto:chungphanngoc.vn@gmail.com">chungphanngoc.vn@gmail.com</a>.</p>
 </body>
-</html>
